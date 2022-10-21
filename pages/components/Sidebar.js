@@ -46,7 +46,7 @@ export default function Sidebar() {
         <img  className="h-10 w-10 rounded-full xl:mr-2" src="https://images.unsplash.com/photo-1618530130946-08e764345b83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="user-img" />
         <div className="leading-5 hidden xl:inline">
           <h4 className="font-bold ">Acer Graphics</h4>
-          <p className="text-gray-500">@acerGraphics</p>
+          <p className="text-gray-500">@AcerNg548</p>
         </div>
         <DotsHorizontalIcon className="h-5 xl:ml-8 hidden xl:inline"/>
       </div>
