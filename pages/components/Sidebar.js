@@ -43,7 +43,7 @@ export default function Sidebar() {
 
       {/*Mini-profile*/}
       <div className="hoverEffect text-gray-700 flex items-center justify-center xl:justify-start mt-auto">
-        <img  className="h-10 w-10 rounded-full xl:mr-2" src="https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/278687635_1329318157543543_6350063287447381973_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGl5d8O1MqNsIDOf0VPGv2J0V_ps6TAM1DRX-mzpMAzUKuDzZitFbfktE5h4A3vxLBBi-pLZHfm25O1dnDpOImP&_nc_ohc=npRT1yjGYSEAX_8ykqs&_nc_zt=23&_nc_ht=scontent-los2-1.xx&oh=00_AT95MgjCFIzE36dB4mYFpaLbXmqH1v7om-AaauSl_Npk9Q&oe=634F5255" alt="user-img" />
+        <img  className="h-10 w-10 rounded-full xl:mr-2" src="https://images.unsplash.com/photo-1618530130946-08e764345b83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="user-img" />
         <div className="leading-5 hidden xl:inline">
           <h4 className="font-bold ">Acer Graphics</h4>
           <p className="text-gray-500">@acerGraphics</p>
